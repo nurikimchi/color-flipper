@@ -6,10 +6,6 @@ body {
     justify-items: center;
 }
 
-h1 {
-    display: grid;
-}
-
 button {
     width: 150px;
     height: 30px;
