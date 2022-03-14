@@ -1,0 +1,21 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3, 1fr);
+    font-family: "Lucida Console", "Courier New", monospace;
+    justify-items: center;
+}
+
+h1 {
+    display: grid;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    background-color: white;
+    border-color: black;
+    box-shadow: 5px 5px;
+}
